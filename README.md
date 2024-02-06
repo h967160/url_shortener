@@ -1,9 +1,8 @@
-# URL Shortener - 餐廳清單
+# URL Shortener - 短網址產生器
 
 使用 Node.js + Express 製作的短網址產生器
 
-![image](https://github.com/h967160/url_shortener/assets/152831113/51cabb57-c6f9-4253-9dcb-85a060204815)
-![image](https://github.com/h967160/url_shortener/assets/152831113/da6fb0d0-b405-49c6-8784-1f9e4ef24ad1)
+![image](https://github.com/h967160/url_shortener/assets/152831113/4a984eef-4a93-49d9-9c26-bcd32ea54ff5)
 
 ## Features - 功能
 
