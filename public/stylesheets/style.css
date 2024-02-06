@@ -5,3 +5,8 @@ body {
 .img-fluid {
   max-width: 30%;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
